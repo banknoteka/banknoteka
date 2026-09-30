@@ -1,0 +1,16 @@
+GABLOTA — katalog i kolekcja banknotów
+======================================
+
+1. Rozpakuj cały folder (np. do C:\Gablota) i uruchom Gablota.exe.
+   Przy pierwszym uruchomieniu Windows może pokazać ostrzeżenie SmartScreen
+   -> "Więcej informacji" -> "Uruchom mimo to".
+
+2. Zdjęcia: kliknij "Podłącz zdjęcia" i wskaż folder "images"
+   (ten sam układ co przy pliku Excel: images\<folder kraju>\<nazwa>.jpg).
+   Aplikacja zapamięta folder – przy kolejnym uruchomieniu wystarczy "Zezwól na zdjęcia".
+
+3. Kolekcje zapisują się automatycznie na tym komputerze.
+   Kopię zapasową zrób przez "Import / Eksport" -> Eksport (.json lub .csv do Excela).
+
+Skróty: ↑ ↓ przewijanie listy, ← → w galerii, Enter – powiększenie,
+w powiększeniu: ← → poprzedni/następny, spacja – awers/rewers/obie, + − i kółko myszy – zoom.
